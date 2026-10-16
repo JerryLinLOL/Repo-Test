@@ -1,0 +1,19 @@
+{
+  "name": "Super Smash Bros Wii U",
+  "icon": "https://m.media-amazon.com/images/I/91YCgB8b46L._AC_UF1000,1000_QL80_.jpg",
+  "titleIds": [
+    "0005000010144F00"
+  ],
+  "mods": [
+    {
+      "id": "tr4sh",
+      "name": "Tr4sh",
+      "type": "modpack",
+      "version": "1.10.5",
+      "author": "JABrules",
+      "description": "This mod changes up all 58 characters, making them all a lot stronger, and a bit more silly. Don't be fooled though, as it's also quite balanced, so you can always have a lot of fun playing!",
+      "download": "https://github.com/JerryLinLOL/Repo-Test/releases/download/Tr4sh/TR4SH_v1.10.5_US.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_59f2fa6085e48_530.webp"
+    }
+  ]
+}
