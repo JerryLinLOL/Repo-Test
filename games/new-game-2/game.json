@@ -1,0 +1,19 @@
+{
+  "name": "Mario Kart 8",
+  "icon": "https://m.media-amazon.com/images/I/8197f2Sf74L._AC_UF1000,1000_QL80_.jpg",
+  "titleIds": [
+    "000500001010EC00"
+  ],
+  "mods": [
+    {
+      "id": "timelined",
+      "name": "Timelined Mario Kart 8",
+      "type": "modpack",
+      "version": "3.1b",
+      "author": "Boltthunder4",
+      "description": "This Modpack contains:\n-46 High Quality Custom Tracks & 2 Texture Hacks \n-Music for every Custom Track\n-Custom Cup Icons and other UI Changes\n-Lots of Sonic Universe Characters\n-Custom Sonic themed Karts and Bikes\n-Custom title screens with custom voice lines!\n-Pretendo Network compatibility!\n-An Exhilarating way to experience MK8u from a different Timeline!",
+      "download": "https://github.com/JerryLinLOL/Repo-Test/releases/download/Timeline/Timelined.Mario.Kart.8.v3.1b.zip",
+      "thumbnail": "https://i.ytimg.com/vi/0N3YvOHK5ao/maxresdefault.jpg"
+    }
+  ]
+}

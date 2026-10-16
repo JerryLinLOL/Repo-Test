@@ -1,0 +1,26 @@
+{
+  "name": "New Super Mario Bros U",
+  "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiGVN1OvftB19KQUQ57w8S4pGpCjWI0hGJ1dO5zEZDP8MpxP5dBwwoQpP&s=10",
+  "titleIds": [
+    "0005000010101D00"
+  ],
+  "mods": [
+    {
+      "id": "cloudy",
+      "name": "Cloudy Super Mario Bros. U 2",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Rimea",
+      "description": "Cloudy Super Mario Bros. U 2 is a mod of NSMBU which is out now!\n\nThis mod contains:\n\n40+ brand new unique levels\nOver 100 new and revamped tilesets\nRetextures and remodels of NSMBU's original assets\nA brand new soundtrack with both original and remixed music",
+      "download": "https://github.com/JerryLinLOL/Repo-Test/releases/download/cloudy/Cloudy.SMBU.2.Console.Edition.zip",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/sgi_common_thumbs_628946d56e9b0_530.webp",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/628942f9ce975.jpg",
+        "https://images.gamebanana.com/img/ss/mods/628942f64d9ac.jpg",
+        "https://images.gamebanana.com/img/ss/mods/62894304a51d9.jpg",
+        "https://images.gamebanana.com/img/ss/mods/628942fec6df4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/628942f831541.jpg"
+      ]
+    }
+  ]
+}
